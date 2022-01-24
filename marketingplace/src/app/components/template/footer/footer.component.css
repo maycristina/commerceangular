@@ -1,0 +1,13 @@
+.footer{
+  height: 100px;
+  background-color: rgb(245, 245, 245);
+
+  position: fixed;
+  bottom: 0;
+  display: flex;
+  justify-content: center;
+}
+
+footer a{
+  font-weight: 500;
+}

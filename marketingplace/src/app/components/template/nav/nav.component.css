@@ -1,0 +1,13 @@
+
+.nav-container{
+
+  height: 300px;
+
+}
+
+.nav-container a{
+  text-decoration: none;
+  color:black;
+  display: flex;
+  gap:10px;
+}
