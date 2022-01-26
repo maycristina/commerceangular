@@ -1,4 +1,4 @@
-# Angular-Marketplace. 
+# Ecommerce with Angular 
 
 <p>Este projeto é uma lista de filmes bem simples, funciona consumindo uma data base, o projeto tem algumas funcionalidades como listar produtos, adicionar produto ao carrinho, checkout de formulário e Pop-ups.</p>
 
