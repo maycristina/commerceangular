@@ -1,0 +1,18 @@
+
+.mat-card{
+  display:block;
+  padding:2%;
+  width: 90%;
+  margin: 10px 0;
+  background-color: #1f1f1f;
+  color:#ffff;
+}
+
+@media screen and (max-width:768px) {
+
+  .mat-card{
+    width: 90%;
+    margin: 5px 0 5px;
+
+  }
+}

@@ -1,0 +1,42 @@
+.mat-card-container{
+  display: inline-flex;
+  margin-top: 15px;
+  padding: 2%;
+  justify-content: center;
+  height: 100%;
+}
+
+.card-film{
+  width: 300px;
+  height: 100%;
+  margin: 0 15px 15px 0;
+}
+
+.card-content{
+  text-align:center;
+  padding: 5px;
+}
+
+.card-content img{
+  width: 150px;;
+  opacity:.8;
+  transition:2s;
+}
+
+
+.card-content img{
+  opacity: 1;
+}
+
+.card-description{
+  text-align:left;
+}
+
+button{
+  background-image: linear-gradient(rgb(47, 197, 72),rgb(24, 168, 0));
+  border:none;
+  padding:8px 20px;
+  border-radius:20px;
+  color: #ffff;
+  font-weight: 700;
+}

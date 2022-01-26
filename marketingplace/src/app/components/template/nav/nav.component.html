@@ -11,7 +11,7 @@
     Inicio
   </a>
 
-  <a mat-list-item href="">
+  <a mat-list-item routerLink="/list-films" routerLinkActive="router-link-active" >
     <i class="material-icons">theaters</i>
    Listar Filmes
   </a>
@@ -22,11 +22,17 @@
 
 </mat-list>
 </mat-sidenav>
+
+
 <mat-sidenav-content class="content">
   <button mat-icon-button (click)="sidenav.toggle()" class="mat-nav-button">
-    <i lcass="material-icons">menu</i>
+    <i class="material-icons">menu_open</i>
   </button>
 
+  <router-outlet></router-outlet>
+
 </mat-sidenav-content>
+
+
 
 </mat-sidenav-container>
