@@ -1,8 +1,10 @@
-# Angular-marketplace.
+# Angular-Marketplace. 
 
-<p>Este projeto é um site de filmes, que podem ser comprados consumindo uma Data base, o projeto tem algumas funcionalidades de listar produtos, adicionar produto ao carrinho, checkout de formulário e Pop-ups.</p>
+<p>Este projeto é uma lista de filmes bem simples, funciona consumindo uma data base, o projeto tem algumas funcionalidades como listar produtos, adicionar produto ao carrinho, checkout de formulário e Pop-ups.</p>
 
 <p>Site desenvolvido com o labs da Digital Innovation One Inc, ministrado pela professora Diana Martine.</p>
 
-
-
+Para visualizar em sua máquina faça uma <code>Fork</code> entre na pasta backend, vá no seu terminal execute o <code>npm start<npm>, após entre na pasta marketingplace e execute <code>npm start<npm>.
+  
+Abaixo uma imagem do site
+![maycristina](https://user-images.githubusercontent.com/58398813/151216748-d8db2925-e029-4564-bf13-420fcdd430b7.png)
